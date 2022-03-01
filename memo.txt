@@ -1,0 +1,4 @@
+仮想環境に入る pyenv versions  3.9.7に変更
+(venv) niko@kunikonoMacBook-Pro flask_tutorial
+
+pip freeze > requirements.txt
